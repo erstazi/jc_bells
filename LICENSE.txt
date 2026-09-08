@@ -1,0 +1,146 @@
+Bell Chimes Mod (jc_bells)
+License Information
+===================
+
+Copyright (c) 2020, Leslie E. Krause
+Copyright (c) 2026, Erstazi
+
+This project contains original work by Leslie E. Krause as well as
+modifications and additions made by Erstazi in 2026.
+
+The source code and multimedia assets are distributed under separate
+licenses, as described below.
+
+# SOURCE CODE LICENSE
+
+The source code of Bell Chimes Mod is licensed under the GNU Lesser
+General Public License, version 3 (LGPL-3.0).
+
+Copyright (c) 2020, Leslie E. Krause
+Copyright (c) 2026, Erstazi
+
+This program is free software: you can redistribute it and/or modify
+it under the terms of the GNU Lesser General Public License as published
+by the Free Software Foundation, either version 3 of the License, or
+(at your option) any later version.
+
+This program is distributed in the hope that it will be useful, but
+WITHOUT ANY WARRANTY; without even the implied warranty of
+MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the GNU Lesser
+General Public License for more details.
+
+A copy of the LGPL-3.0 license should be included with this distribution
+or may be obtained from:
+
+https://www.gnu.org/licenses/lgpl-3.0.html
+
+# MULTIMEDIA LICENSE
+
+The textures, sounds, and 3D models included with this project are
+licensed under the Creative Commons Attribution-ShareAlike 3.0
+Unported License (CC BY-SA 3.0), except where otherwise noted below.
+
+Copyright and attribution for individual assets remains with their
+respective original creators.
+
+You are free to:
+
+Share — copy and redistribute the material in any medium or format.
+
+Adapt — remix, transform, and build upon the material for any purpose,
+including commercially.
+
+Under the following terms:
+
+Attribution — You must give appropriate credit, provide a link to the
+license, and indicate if changes were made. You may do so in any
+reasonable manner, but not in any way that suggests the licensor
+endorses you or your use.
+
+ShareAlike — If you remix, transform, or build upon material covered
+by this license, you must distribute your contributions under the same
+license.
+
+No additional restrictions — You may not apply legal terms or
+technological measures that legally restrict others from doing anything
+the license permits.
+
+The full license is available at:
+
+https://creativecommons.org/licenses/by-sa/3.0/
+
+# ASSET ATTRIBUTION
+
+## textures/church_bell.png
+
+Created by: Sokomine
+Modified by: sorcerykid
+Original source:
+https://github.com/FaceDeer/bell
+
+sounds/bell_chime1.ogg
+sounds/bell_chime2.ogg
+----------------------
+
+Created by: theblockofsound235
+Modified by: sorcerykid
+Original source:
+https://freesound.org/people/theblockofsound235/sounds/458302/
+
+sounds/bell_mechanism1.ogg
+sounds/bell_mechanism2.ogg
+sounds/bell_mechanism3.ogg
+--------------------------
+
+Created by: crooner
+Modified by: sorcerykid
+Original source:
+https://freesound.org/people/crooner/sounds/42928
+
+sounds/bell_mechanism5.ogg
+sounds/bell_mechanism6.ogg
+sounds/bell_mechanism7.ogg
+--------------------------
+
+Created by: Towerclock1843
+Modified by: sorcerykid
+Original source:
+https://www.youtube.com/watch?v=vI1c0dXZS3g
+
+## sounds/bell_stroke.ogg
+
+Created by: edsward
+Modified by: sorcerykid
+Original source:
+https://freesound.org/people/edsward/sounds/341866/
+
+# MODIFICATIONS BY ERSTAZI
+
+Modifications and additions made to this project by Erstazi in 2026
+are identified as such where practical.
+
+Unless otherwise stated, modifications to the source code remain
+licensed under the LGPL-3.0.
+
+Modifications to CC BY-SA 3.0 multimedia assets remain subject to the
+terms of the CC BY-SA 3.0 license.
+
+# DISCLAIMER
+
+This project is provided "AS IS", without warranty of any kind, express
+or implied. See the applicable license texts for the complete terms,
+conditions, limitations, and disclaimers.
+
+# LICENSE SUMMARY
+
+Source code:
+GNU Lesser General Public License v3.0 (LGPL-3.0)
+
+Textures, sounds, and models:
+Creative Commons Attribution-ShareAlike 3.0 Unported (CC BY-SA 3.0)
+
+Original source author:
+Leslie E. Krause
+
+2026 modifications:
+Erstazi
